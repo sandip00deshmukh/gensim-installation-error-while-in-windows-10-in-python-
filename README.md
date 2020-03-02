@@ -1,10 +1,14 @@
 C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\Scripts>pip3 install gensim==3.3.0
+
 Collecting gensim==3.3.0
+  
   Using cached gensim-3.3.0.tar.gz (21.9 MB)
+    
     ERROR: Command errored out with exit status 1:
      command: 'c:\users\administrator\appdata\local\programs\python\python38-32\python.exe' -c 'import sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\Administrator\\AppData\\Local\\Temp\\pip-install-unfv02cf\\gensim\\setup.py'"'"'; __file__='"'"'C:\\Users\\Administrator\\AppData\\Local\\Temp\\pip-install-unfv02cf\\gensim\\setup.py'"'"';f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' egg_info --egg-base 'C:\Users\Administrator\AppData\Local\Temp\pip-install-unfv02cf\gensim\pip-egg-info'
          cwd: C:\Users\Administrator\AppData\Local\Temp\pip-install-unfv02cf\gensim\
-    Complete output (97 lines):
+   
+   Complete output (97 lines):
     Processing numpy/random\_bounded_integers.pxd.in
     Processing numpy/random\mtrand.pyx
     Traceback (most recent call last):
